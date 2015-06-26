@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="iterator" />
+    <orderEntry type="module" module-name="adapter" />
+    <orderEntry type="module" module-name="template" />
+    <orderEntry type="module" module-name="factory" />
+    <orderEntry type="module" module-name="singleton" />
+    <orderEntry type="module" module-name="prototype" />
+    <orderEntry type="module" module-name="builder" />
+    <orderEntry type="module" module-name="abstract" />
+    <orderEntry type="module" module-name="bridge" />
+    <orderEntry type="module" module-name="stratege" />
+    <orderEntry type="module" module-name="composite" />
+    <orderEntry type="module" module-name="decorator" />
+    <orderEntry type="module" module-name="visitor" />
+    <orderEntry type="module" module-name="responsibility" />
+    <orderEntry type="module" module-name="facade" />
+    <orderEntry type="module" module-name="mediator" />
+    <orderEntry type="module" module-name="observer" />
+    <orderEntry type="module" module-name="memonto" />
+    <orderEntry type="module" module-name="state" />
+    <orderEntry type="module" module-name="flyweight" />
+    <orderEntry type="module" module-name="proxy" />
+    <orderEntry type="module" module-name="command" />
+  </component>
+</module>
